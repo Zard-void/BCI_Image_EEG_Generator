@@ -52,7 +52,7 @@ opt-einsum==3.1.0
 packaging==20.0
 pandas==0.25.3
 pathspec==0.7.0
-Pillow==6.2.1
+Pillow==7.1.0
 ply==3.11
 protobuf==3.11.2
 pyasn1==0.4.8
