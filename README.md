@@ -3,6 +3,9 @@
 ![Screenshot from 2020-01-19 18-16-31](https://user-images.githubusercontent.com/21131348/72685187-df834580-3ae7-11ea-99eb-182c80defa1b.png)
 
 
+**Important Note**
+Due to low quality of training data you can't reproduce my work. If you want obtain similar result you need to prepare experiment by yourself and get data with more accurate EEG aqusition device.
+
 
 ## About The Project
 
